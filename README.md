@@ -1,5 +1,8 @@
 # The Impact of  Childhood Environment on Employment Outcomes
 
+### Slide Presentation can be accessed using the following link: 
+### https://docs.google.com/presentation/d/1s9UbYJXBtoX8jNDRVPZMeIKJosaL8TGvv5l-d4VzgVk/edit#slide=id.ge9571b244e_0_137
+
 ## Background: Gender Gap Hypothesis
 * Motivation of this analysis comes from Childhood Environment and Gender Gaps in Adulthood (2016) by Chetty, Hendren et al 
 * Gender employment gap reversed for children in poor families, boys in poor families have lower employment than girls 
